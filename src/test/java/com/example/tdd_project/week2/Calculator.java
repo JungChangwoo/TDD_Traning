@@ -1,4 +1,4 @@
-package com.example.tdd_project;
+package com.example.tdd_project.week2;
 
 public class Calculator {
 
