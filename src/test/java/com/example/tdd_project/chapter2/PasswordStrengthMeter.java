@@ -1,6 +1,6 @@
-package com.example.tdd_project.week2;
+package com.example.tdd_project.chapter2;
 
-import static com.example.tdd_project.week2.PasswordStrength.*;
+import static com.example.tdd_project.chapter2.PasswordStrength.*;
 
 public class PasswordStrengthMeter {
     public PasswordStrength meter(String word){

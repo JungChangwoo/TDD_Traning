@@ -1,4 +1,4 @@
-package com.example.tdd_project.week2;
+package com.example.tdd_project.chapter2;
 
 
 import org.junit.jupiter.api.Test;
