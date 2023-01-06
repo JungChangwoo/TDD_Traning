@@ -120,7 +120,6 @@ public class ExpiryDateCalculatorTest {
                 LocalDate.of(2020, 1, 28));
     }
 
-
     private void assertExpiryDate(PayData payData, LocalDate expectedExpiryDate){
         ExpiryDateCalculator calculator = new ExpiryDateCalculator();
         LocalDate expiryDate = calculator.calculateExpiryDate(payData);
